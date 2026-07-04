@@ -1,0 +1,6 @@
+{
+  "name": "Veritas Academy",
+  "description": "Premium educational tutoring and coaching center in Bengaluru for School, PUC Science/Commerce, NEET, JEE, CET, and competitive exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
